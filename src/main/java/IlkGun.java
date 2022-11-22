@@ -4,5 +4,7 @@ public class IlkGun {
 
         System.out.println("Hello World!");
         System.out.println("Git - GitHub");
+
+        System.out.println("Git ogrenmek guzel...");
     }
 }
